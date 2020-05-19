@@ -8,6 +8,7 @@ import sys
 
 # Complete the countApplesAndOranges function below.
 def countApplesAndOranges(s, t, a, b, apples, oranges):
+    Hi Phani
     apple_count=0
     orange_count=0
     appList=[]
